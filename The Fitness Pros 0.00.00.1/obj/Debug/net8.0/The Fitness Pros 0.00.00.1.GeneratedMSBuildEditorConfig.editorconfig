@@ -42,6 +42,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9XZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/Components/Pages/Weight.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9XZWlnaHQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Sb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
