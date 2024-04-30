@@ -11,6 +11,7 @@ C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\ob
 C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\The Fitness Pros 0.00.00.1.AssemblyInfo.cs
 C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\The Fitness Pros 0.00.00.1.csproj.CoreCompileInputs.cache
 C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\The_Fitness_Pros_0.00.00.1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\The Fitness Pros 0.00.00.1.sourcelink.json
 C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\staticwebassets\msbuild.The_Fitness_Pros_0.00.00.1.Microsoft.AspNetCore.StaticWebAssets.props

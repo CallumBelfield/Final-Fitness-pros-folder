@@ -36,7 +36,8 @@
                             @{
                                 DateTime currentDate = DateTime.Today.AddDays(j + i * 7 - (int)DateTime.Today.DayOfWeek);
                             }
-                            <button @onclick="() => SelectDate(currentDate)">
+                            <button @onclick="() => SelectDate(currentDate)"
+                                    style="background-color: @(currentDate.Date == selectedDate.Date ? "purple" : "inherit")">
                                 @currentDate.Day
                             </button>
                         </td>
