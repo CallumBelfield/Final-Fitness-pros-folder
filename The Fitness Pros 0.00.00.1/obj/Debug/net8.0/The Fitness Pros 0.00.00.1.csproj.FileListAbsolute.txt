@@ -1,30 +1,60 @@
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\bin\Debug\net8.0\appsettings.json
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\bin\Debug\net8.0\The_Fitness_Pros_0.00.00.1.staticwebassets.runtime.json
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\bin\Debug\net8.0\The_Fitness_Pros_0.00.00.1.exe
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\bin\Debug\net8.0\The_Fitness_Pros_0.00.00.1.deps.json
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\bin\Debug\net8.0\The_Fitness_Pros_0.00.00.1.runtimeconfig.json
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\bin\Debug\net8.0\The_Fitness_Pros_0.00.00.1.dll
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\bin\Debug\net8.0\The_Fitness_Pros_0.00.00.1.pdb
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\The Fitness Pros 0.00.00.1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\The Fitness Pros 0.00.00.1.AssemblyInfoInputs.cache
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\The Fitness Pros 0.00.00.1.AssemblyInfo.cs
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\The Fitness Pros 0.00.00.1.csproj.CoreCompileInputs.cache
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\The_Fitness_Pros_0.00.00.1.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\The Fitness Pros 0.00.00.1.sourcelink.json
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\staticwebassets\msbuild.The_Fitness_Pros_0.00.00.1.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\staticwebassets\msbuild.build.The_Fitness_Pros_0.00.00.1.props
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.The_Fitness_Pros_0.00.00.1.props
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.The_Fitness_Pros_0.00.00.1.props
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\scopedcss\bundle\The_Fitness_Pros_0.00.00.1.styles.css
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\scopedcss\projectbundle\The_Fitness_Pros_0.00.00.1.bundle.scp.css
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\The_Fitness_Pros_0.00.00.1.dll
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\refint\The_Fitness_Pros_0.00.00.1.dll
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\The_Fitness_Pros_0.00.00.1.pdb
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\The Fitness Pros 0.00.00.1.genruntimeconfig.cache
-C:\Users\certi\Documents\Final Fitness pros folder\The Fitness Pros 0.00.00.1\obj\Debug\net8.0\ref\The_Fitness_Pros_0.00.00.1.dll
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/bin/Debug/net8.0/appsettings.json
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/bin/Debug/net8.0/The_Fitness_Pros_0.00.00.1.staticwebassets.runtime.json
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/bin/Debug/net8.0/The_Fitness_Pros_0.00.00.1.exe
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/bin/Debug/net8.0/The_Fitness_Pros_0.00.00.1.deps.json
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/bin/Debug/net8.0/The_Fitness_Pros_0.00.00.1.runtimeconfig.json
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/bin/Debug/net8.0/The_Fitness_Pros_0.00.00.1.dll
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/bin/Debug/net8.0/The_Fitness_Pros_0.00.00.1.pdb
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/The Fitness Pros 0.00.00.1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/The Fitness Pros 0.00.00.1.AssemblyInfoInputs.cache
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/The Fitness Pros 0.00.00.1.AssemblyInfo.cs
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/The Fitness Pros 0.00.00.1.csproj.CoreCompileInputs.cache
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/The_Fitness_Pros_0.00.00.1.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/The Fitness Pros 0.00.00.1.sourcelink.json
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/staticwebassets/msbuild.The_Fitness_Pros_0.00.00.1.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/staticwebassets/msbuild.build.The_Fitness_Pros_0.00.00.1.props
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.The_Fitness_Pros_0.00.00.1.props
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.The_Fitness_Pros_0.00.00.1.props
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/scopedcss/bundle/The_Fitness_Pros_0.00.00.1.styles.css
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/scopedcss/projectbundle/The_Fitness_Pros_0.00.00.1.bundle.scp.css
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/The_Fitness_Pros_0.00.00.1.dll
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/refint/The_Fitness_Pros_0.00.00.1.dll
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/The_Fitness_Pros_0.00.00.1.pdb
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/The Fitness Pros 0.00.00.1.genruntimeconfig.cache
+C:/Users/certi/Documents/Final Fitness pros folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/ref/The_Fitness_Pros_0.00.00.1.dll
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/bin/Debug/net8.0/appsettings.Development.json
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/bin/Debug/net8.0/appsettings.json
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/bin/Debug/net8.0/The_Fitness_Pros_0.00.00.1.staticwebassets.runtime.json
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/bin/Debug/net8.0/The_Fitness_Pros_0.00.00.1
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/bin/Debug/net8.0/The_Fitness_Pros_0.00.00.1.deps.json
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/bin/Debug/net8.0/The_Fitness_Pros_0.00.00.1.runtimeconfig.json
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/bin/Debug/net8.0/The_Fitness_Pros_0.00.00.1.dll
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/bin/Debug/net8.0/The_Fitness_Pros_0.00.00.1.pdb
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/The Fitness Pros 0.00.00.1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/The Fitness Pros 0.00.00.1.AssemblyInfoInputs.cache
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/The Fitness Pros 0.00.00.1.AssemblyInfo.cs
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/The Fitness Pros 0.00.00.1.csproj.CoreCompileInputs.cache
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/The_Fitness_Pros_0.00.00.1.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/The Fitness Pros 0.00.00.1.sourcelink.json
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/staticwebassets.build.json
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/staticwebassets.development.json
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/staticwebassets/msbuild.The_Fitness_Pros_0.00.00.1.Microsoft.AspNetCore.StaticWebAssets.props
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/staticwebassets/msbuild.build.The_Fitness_Pros_0.00.00.1.props
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.The_Fitness_Pros_0.00.00.1.props
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.The_Fitness_Pros_0.00.00.1.props
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/staticwebassets.pack.json
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/scopedcss/bundle/The_Fitness_Pros_0.00.00.1.styles.css
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/scopedcss/projectbundle/The_Fitness_Pros_0.00.00.1.bundle.scp.css
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/The_Fitness_Pros_0.00.00.1.dll
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/refint/The_Fitness_Pros_0.00.00.1.dll
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/The_Fitness_Pros_0.00.00.1.pdb
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/The Fitness Pros 0.00.00.1.genruntimeconfig.cache
+/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/ref/The_Fitness_Pros_0.00.00.1.dll
