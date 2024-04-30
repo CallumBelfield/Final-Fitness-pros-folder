@@ -1,0 +1,52 @@
+@page "/signup"
+@using System.Text.Json
+@using System.IO
+
+<h2>Signup</h2>
+
+<form @onsubmit="HandleSubmit">
+    <label>Username: <input type="text" @bind="username" /></label><br />
+    <label>Password: <input type="password" @bind="password" /></label><br />
+    <label>Weight: <input type="text" @bind="weight" /></label><br />
+    <label>Height: <input type="text" @bind="height" /></label><br />
+    <label>Goal: <input type="text" @bind="goal" /></label><br />
+    <button type="submit">Signup</button>
+</form>
+
+@code {
+    private string username = string.Empty;
+    private string password = string.Empty;
+    private string weight = string.Empty;
+    private string height = string.Empty;
+    private string goal = string.Empty;
+
+    private async Task HandleSubmit()
+    {
+        var newUser = new 
+        {
+            Username = username,
+            Password = password,
+            Weight = weight,
+            Height = height,
+            Goal = goal
+        };
+
+        var path = "UserData.json";
+
+        List<object> users;
+        if (File.Exists(path))
+        {
+            var json = await File.ReadAllTextAsync(path);
+            users = JsonSerializer.Deserialize<List<object>>(json) ?? new List<object>(); // Handle possible null value
+        }
+        else
+        {
+            users = new List<object>();
+        }
+
+        users.Add(newUser);
+
+        var newJson = JsonSerializer.Serialize(users);
+        await File.WriteAllTextAsync(path, newJson); // Use await to perform asynchronous write operation
+    }
+}

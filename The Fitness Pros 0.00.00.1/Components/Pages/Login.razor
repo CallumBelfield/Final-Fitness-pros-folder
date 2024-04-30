@@ -1,0 +1,52 @@
+@page "/login"
+@using System.IO;
+@using System.Text.Json;
+@using System.Collections.Generic;
+@inject NavigationManager NavigationManager
+
+<h2>Login</h2>
+
+<form @onsubmit="HandleSubmit">
+    <label>Username: <input type="text" @bind="username" /></label><br />
+    <label>Password: <input type="password" @bind="password" /></label><br />
+    <button type="submit">Login</button>
+    <p>@errorMessage</p>
+</form>
+
+@code {
+    private string username = string.Empty;
+    private string password = string.Empty;
+    private string errorMessage = string.Empty;
+
+    private async Task HandleSubmit()
+    {
+        var users = await LoadUserData();
+
+        // Authenticate user
+        var user = users.FirstOrDefault(u => u.Username == username && u.Password == password);
+        if (user != null)
+        {
+            // Redirect to home page upon successful login
+            NavigationManager.NavigateTo("/");
+        }
+        else
+        {
+            // Show error message for incorrect password
+            errorMessage = "Incorrect username or password.";
+        }
+    }
+
+    private async Task<List<UserData>> LoadUserData()
+    {
+        var json = await File.ReadAllTextAsync("UserData.json");
+        return JsonSerializer.Deserialize<List<UserData>>(json) ?? new List<UserData>();
+    }
+
+    // Define the model class for user data
+    public class UserData
+    {
+        public string Username { get; set; } = string.Empty;
+        public string Password { get; set; } = string.Empty;
+        // Add other properties as needed (e.g., Weight, Height, etc.)
+    }
+}

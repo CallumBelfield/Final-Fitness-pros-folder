@@ -9,9 +9,9 @@
         </div>
         <!-- Login, Signup, and Other actions on the right -->
         <div class="banner-actions">
-            <button>Login</button>
-            <button>Signup</button>
-            <button>|||</button>
+            <NavLink class="nav-link" href="/">Home</NavLink>
+            <NavLink class="nav-link" href="/login">Login</NavLink>
+            <NavLink class="nav-link" href="/signup">Signup</NavLink>
         </div>
     </header>
 
@@ -64,5 +64,15 @@
         color: white;
         padding: 10px;
         text-align: center;
+    }
+
+    .nav-link {
+        color: white;
+        text-decoration: none;
+        margin-right: 10px;
+    }
+
+    .nav-link:hover {
+        text-decoration: underline;
     }
 </style>
