@@ -1,0 +1,74 @@
+@code {
+    private DateTime selectedDate = DateTime.Today;
+
+    // Handle selecting a date
+    private void SelectDate(DateTime date)
+    {
+        selectedDate = date;
+        // Add your logic for handling the selected date
+    }
+}
+
+<div class="calendar">
+    <!-- Display the selected date -->
+    <h2>Selected Date: @selectedDate.ToShortDateString()</h2>
+
+    <!-- Display the calendar -->
+    <table>
+        <thead>
+            <tr>
+                <th>Sun</th>
+                <th>Mon</th>
+                <th>Tue</th>
+                <th>Wed</th>
+                <th>Thu</th>
+                <th>Fri</th>
+                <th>Sat</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < 6; i++)
+            {
+                <tr>
+                    @for (int j = 0; j < 7; j++)
+                    {
+                        <td>
+                            @{
+                                DateTime currentDate = DateTime.Today.AddDays(j + i * 7 - (int)DateTime.Today.DayOfWeek);
+                            }
+                            <button @onclick="() => SelectDate(currentDate)">
+                                @currentDate.Day
+                            </button>
+                        </td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<style>
+    /* Define your CSS styles for the calendar here */
+    .calendar {
+        /* Your styles */
+    }
+
+    .calendar table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    .calendar table th,
+    .calendar table td {
+        width: calc(100% / 7);
+        height: 50px; /* Adjust height as needed */
+        border: 1px solid #ccc;
+        text-align: center;
+        white-space: nowrap; /* Prevent wrapping of text */
+    }
+
+    .calendar table td button {
+        width: 100%;
+        height: 100%;
+    }
+</style>

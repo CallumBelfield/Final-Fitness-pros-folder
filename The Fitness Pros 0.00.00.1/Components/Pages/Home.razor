@@ -1,0 +1,35 @@
+﻿@page "/"
+
+
+<div class="container">
+    <!-- First box -->
+    <div class="box">
+        <h2>Scroll for health insights</h2>
+    </div>
+
+    <!-- Second box -->
+    <div class="box">
+        <h2>User's current data/info</h2>
+        <p>Weight: @userWeight (optional)</p>
+        <p>Height: @userHeight (optional)</p>
+        <p>Goal: @userGoal (optional)</p>
+    </div>
+
+    <!-- Third box -->
+    <div class="box">
+        <img src="/index_image_1.jpeg" alt="Image 1" />
+    </div>
+
+    <!-- Fourth box -->
+    <div class="box">
+        <!-- Display calendar here -->
+        <Calendar />
+    </div>
+</div>
+
+@code {
+    // Define variables for user's data
+    string userWeight = "160 lbs";
+    string userHeight = "6'2\"";
+    string userGoal = "Lose 10 lbs";
+}

@@ -1,0 +1,68 @@
+﻿@inherits LayoutComponentBase
+
+<div class="main-container">
+    <!-- Header section -->
+    <header class="header">
+        <!-- App name on the left -->
+        <div class="app-name">
+            <h1>My App</h1>
+        </div>
+        <!-- Login, Signup, and Other actions on the right -->
+        <div class="banner-actions">
+            <button>Login</button>
+            <button>Signup</button>
+            <button>|||</button>
+        </div>
+    </header>
+
+    <!-- Main content area -->
+    <div class="content">
+        @Body
+    </div>
+
+    <!-- Footer section -->
+    <footer class="footer">
+        <!-- Place your footer content here -->
+        <p>&copy; 2024 My App</p>
+        <!-- You can add footer links, social media icons, etc. -->
+    </footer>
+</div>
+
+<link href="css/site.css" rel="stylesheet" />
+
+<style>
+    /* Define your CSS styles for layout here */
+    .main-container {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+    }
+
+    .header {
+        background-color: #333;
+        color: white;
+        padding: 10px;
+        display: flex;
+        justify-content: space-between; /* Align items to the start and end of the header */
+    }
+
+    .app-name {
+        /* Style for the app name */
+    }
+
+    .banner-actions {
+        /* Style for the banner actions (login, signup, etc.) */
+    }
+
+    .content {
+        flex: 1;
+        padding: 20px;
+    }
+
+    .footer {
+        background-color: #333;
+        color: white;
+        padding: 10px;
+        text-align: center;
+    }
+</style>
