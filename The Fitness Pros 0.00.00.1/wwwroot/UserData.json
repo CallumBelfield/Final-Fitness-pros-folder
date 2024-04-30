@@ -1,0 +1,17 @@
+{
+    "user1": {
+      "username": "user1",
+      "password": "password1",
+      "weight": "160 lbs",
+      "height": "6'2\"",
+      "goal": "Lose 10 lbs"
+    },
+    "user2": {
+      "username": "user2",
+      "password": "password2",
+      "weight": "150 lbs",
+      "height": "5'8\"",
+      "goal": "Gain muscle"
+    }
+  }
+  

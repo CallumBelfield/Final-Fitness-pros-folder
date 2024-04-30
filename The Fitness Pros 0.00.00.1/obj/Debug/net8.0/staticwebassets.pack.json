@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\The_Fitness_Pros_0.00.00.1.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\UserData.json",
+      "PackagePath": "staticwebassets\\UserData.json"
+    },
+    {
       "Id": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },

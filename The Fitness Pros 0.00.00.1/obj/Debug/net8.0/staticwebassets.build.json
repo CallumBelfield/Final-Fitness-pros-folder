@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uziPsqMh1LzmdrGF4jtiosEQlDePR6v9Om06hOl66CM=",
+  "Hash": "pqyJULvscGz6PnCQ6/7vr5e5QFoHOr/FVZdGMEIAUt0=",
   "Source": "The_Fitness_Pros_0.00.00.1",
   "BasePath": "_content/The_Fitness_Pros_0.00.00.1",
   "Mode": "Default",
@@ -167,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index_image_1.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\UserData.json",
+      "SourceId": "The_Fitness_Pros_0.00.00.1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\",
+      "BasePath": "_content/The_Fitness_Pros_0.00.00.1",
+      "RelativePath": "UserData.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\UserData.json"
     }
   ]
 }
