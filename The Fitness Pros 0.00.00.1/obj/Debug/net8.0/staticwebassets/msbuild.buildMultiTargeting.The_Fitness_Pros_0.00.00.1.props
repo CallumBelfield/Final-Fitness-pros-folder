@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="../build/The_Fitness_Pros_0.00.00.1.props" />
+  <Import Project="..\build\The_Fitness_Pros_0.00.00.1.props" />
 </Project>
