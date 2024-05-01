@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "Hash": "265QgnTqgjFWXpI+QiC0Ih1VqzrUMQwPvt5z1c+wyNw=",
-=======
-  "Hash": "CaKaEVwXA3Z2Ivs69AcbKQNWo9Z30d4fICamQk1jLpM=",
->>>>>>> 2afe6d6aacd11bf915f7e53f4464721d8d3a6af9
   "Source": "The_Fitness_Pros_0.00.00.1",
   "BasePath": "_content/The_Fitness_Pros_0.00.00.1",
   "Mode": "Default",
@@ -12,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "The_Fitness_Pros_0.00.00.1/wwwroot",
+      "Name": "The_Fitness_Pros_0.00.00.1\\wwwroot",
       "Source": "The_Fitness_Pros_0.00.00.1",
-      "ContentRoot": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/wwwroot/",
+      "ContentRoot": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\",
       "BasePath": "_content/The_Fitness_Pros_0.00.00.1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/scopedcss/bundle/The_Fitness_Pros_0.00.00.1.styles.css",
+      "Identity": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\The_Fitness_Pros_0.00.00.1.styles.css",
       "SourceId": "The_Fitness_Pros_0.00.00.1",
       "SourceType": "Computed",
-      "ContentRoot": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/The_Fitness_Pros_0.00.00.1",
       "RelativePath": "The_Fitness_Pros_0.00.00.1.styles.css",
       "AssetKind": "All",
@@ -37,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/scopedcss/bundle/The_Fitness_Pros_0.00.00.1.styles.css"
+      "OriginalItemSpec": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\The_Fitness_Pros_0.00.00.1.styles.css"
     },
     {
-      "Identity": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/scopedcss/projectbundle/The_Fitness_Pros_0.00.00.1.bundle.scp.css",
+      "Identity": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\The_Fitness_Pros_0.00.00.1.bundle.scp.css",
       "SourceId": "The_Fitness_Pros_0.00.00.1",
       "SourceType": "Computed",
-      "ContentRoot": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/The_Fitness_Pros_0.00.00.1",
       "RelativePath": "The_Fitness_Pros_0.00.00.1.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/scopedcss/projectbundle/The_Fitness_Pros_0.00.00.1.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\The_Fitness_Pros_0.00.00.1.bundle.scp.css"
     },
     {
-      "Identity": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/wwwroot/app.css",
+      "Identity": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\app.css",
       "SourceId": "The_Fitness_Pros_0.00.00.1",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/wwwroot/",
+      "ContentRoot": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\",
       "BasePath": "_content/The_Fitness_Pros_0.00.00.1",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -75,10 +71,9 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/app.css"
+      "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\backgroundhome.jpg",
       "SourceId": "The_Fitness_Pros_0.00.00.1",
       "SourceType": "Discovered",
@@ -99,12 +94,9 @@
     },
     {
       "Identity": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\bootstrap\\bootstrap.min.css",
-=======
-      "Identity": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/wwwroot/bootstrap/bootstrap.min.css",
->>>>>>> 2afe6d6aacd11bf915f7e53f4464721d8d3a6af9
       "SourceId": "The_Fitness_Pros_0.00.00.1",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/wwwroot/",
+      "ContentRoot": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\",
       "BasePath": "_content/The_Fitness_Pros_0.00.00.1",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -117,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/wwwroot/bootstrap/bootstrap.min.css.map",
+      "Identity": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "The_Fitness_Pros_0.00.00.1",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/wwwroot/",
+      "ContentRoot": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\",
       "BasePath": "_content/The_Fitness_Pros_0.00.00.1",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -136,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/wwwroot/css/site.css",
+      "Identity": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\css\\site.css",
       "SourceId": "The_Fitness_Pros_0.00.00.1",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/wwwroot/",
+      "ContentRoot": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\",
       "BasePath": "_content/The_Fitness_Pros_0.00.00.1",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -155,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/site.css"
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/wwwroot/favicon.png",
+      "Identity": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\favicon.png",
       "SourceId": "The_Fitness_Pros_0.00.00.1",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/wwwroot/",
+      "ContentRoot": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\",
       "BasePath": "_content/The_Fitness_Pros_0.00.00.1",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -174,17 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon.png"
+      "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\index_image_2.jpeg",
-=======
-      "Identity": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/wwwroot/index_image_1.jpeg",
->>>>>>> 2afe6d6aacd11bf915f7e53f4464721d8d3a6af9
       "SourceId": "The_Fitness_Pros_0.00.00.1",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/wwwroot/",
+      "ContentRoot": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\",
       "BasePath": "_content/The_Fitness_Pros_0.00.00.1",
       "RelativePath": "index_image_2.jpeg",
       "AssetKind": "All",
@@ -197,7 +185,6 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\index_image_2.jpeg"
     },
     {
@@ -218,15 +205,12 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Logo.png"
-=======
-      "OriginalItemSpec": "wwwroot/index_image_1.jpeg"
->>>>>>> 2afe6d6aacd11bf915f7e53f4464721d8d3a6af9
     },
     {
-      "Identity": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/wwwroot/UserData.json",
+      "Identity": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\UserData.json",
       "SourceId": "The_Fitness_Pros_0.00.00.1",
       "SourceType": "Discovered",
-      "ContentRoot": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/wwwroot/",
+      "ContentRoot": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\",
       "BasePath": "_content/The_Fitness_Pros_0.00.00.1",
       "RelativePath": "UserData.json",
       "AssetKind": "All",
@@ -239,7 +223,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/UserData.json"
+      "OriginalItemSpec": "wwwroot\\UserData.json"
     }
   ]
 }

@@ -1,74 +1,59 @@
 {
   "Files": [
     {
-      "Id": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/obj/Debug/net8.0/scopedcss/projectbundle/The_Fitness_Pros_0.00.00.1.bundle.scp.css",
-      "PackagePath": "staticwebassets/The_Fitness_Pros_0.00.00.1.bundle.scp.css"
+      "Id": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\The_Fitness_Pros_0.00.00.1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\The_Fitness_Pros_0.00.00.1.bundle.scp.css"
     },
     {
-<<<<<<< HEAD
       "Id": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\Logo.png",
       "PackagePath": "staticwebassets\\Logo.png"
     },
     {
       "Id": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\UserData.json",
       "PackagePath": "staticwebassets\\UserData.json"
-=======
-      "Id": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/wwwroot/UserData.json",
-      "PackagePath": "staticwebassets/UserData.json"
->>>>>>> 2afe6d6aacd11bf915f7e53f4464721d8d3a6af9
     },
     {
-      "Id": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/wwwroot/app.css",
-      "PackagePath": "staticwebassets/app.css"
+      "Id": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
     },
     {
-<<<<<<< HEAD
       "Id": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\backgroundhome.jpg",
       "PackagePath": "staticwebassets\\backgroundhome.jpg"
     },
     {
       "Id": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
-=======
-      "Id": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/wwwroot/bootstrap/bootstrap.min.css",
-      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
->>>>>>> 2afe6d6aacd11bf915f7e53f4464721d8d3a6af9
     },
     {
-      "Id": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/wwwroot/bootstrap/bootstrap.min.css.map",
-      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+      "Id": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/wwwroot/css/site.css",
-      "PackagePath": "staticwebassets/css/site.css"
+      "Id": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/wwwroot/favicon.png",
-      "PackagePath": "staticwebassets/favicon.png"
+      "Id": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-<<<<<<< HEAD
       "Id": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\index_image_2.jpeg",
       "PackagePath": "staticwebassets\\index_image_2.jpeg"
-=======
-      "Id": "/workspaces/Final-Fitness-pros-folder/The Fitness Pros 0.00.00.1/wwwroot/index_image_1.jpeg",
-      "PackagePath": "staticwebassets/index_image_1.jpeg"
->>>>>>> 2afe6d6aacd11bf915f7e53f4464721d8d3a6af9
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.The_Fitness_Pros_0.00.00.1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.The_Fitness_Pros_0.00.00.1.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.The_Fitness_Pros_0.00.00.1.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.The_Fitness_Pros_0.00.00.1.props",
       "PackagePath": "build\\The_Fitness_Pros_0.00.00.1.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.The_Fitness_Pros_0.00.00.1.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.The_Fitness_Pros_0.00.00.1.props",
       "PackagePath": "buildMultiTargeting\\The_Fitness_Pros_0.00.00.1.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.The_Fitness_Pros_0.00.00.1.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.The_Fitness_Pros_0.00.00.1.props",
       "PackagePath": "buildTransitive\\The_Fitness_Pros_0.00.00.1.props"
     }
   ],

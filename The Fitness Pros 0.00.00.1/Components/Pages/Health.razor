@@ -1,4 +1,5 @@
 @page "/Health"
+@inject NavigationManager NavigationManager
 
 <PageTitle>Health Insights</PageTitle>
 
@@ -6,11 +7,27 @@
 
 What is your weight goal?
 
-<form>
-  <input type="checkbox" id="gainWeight" name="vehicle1" value="Bike">
-  <label for="vehicle1"> Gain Weight</label><br>
-  <input type="checkbox" id="loseWeight" name="vehicle2" value="Car">
-  <label for="vehicle2"> Lose Weight</label><br>
-  <input type="checkbox" id="maintainWeight" name="vehicle3" value="Boat">
-  <label for="vehicle3"> Maintain Current Weight</label>
-</form>
+<div>
+  <button @onclick='() => NavigateToGoal("gainweight")'>Gain Weight</button>
+  <button @onclick='() => NavigateToGoal("loseweight")'>Lose Weight</button>
+  <button @onclick='() => NavigateToGoal("maintainweight")'>Maintain Current Weight</button>
+</div>
+
+@code {
+    // Method to navigate to the corresponding page based on the selected goal
+    private void NavigateToGoal(string goal) {
+        switch (goal) {
+            case "gainweight":
+                NavigationManager.NavigateTo("/GainWeight");
+                break;
+            case "loseweight":
+                NavigationManager.NavigateTo("/LoseWeight");
+                break;
+            case "maintainweight":
+                NavigationManager.NavigateTo("/MaintainWeight");
+                break;
+            default:
+                break;
+        }
+    }
+}
