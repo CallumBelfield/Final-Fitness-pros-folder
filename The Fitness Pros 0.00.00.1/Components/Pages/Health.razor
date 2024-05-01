@@ -1,33 +1,31 @@
-@page "/Health"
+@page "/health"
 @inject NavigationManager NavigationManager
+
+<style>
+    body {
+        color: white;
+    }
+    .title {
+        text-decoration: underline;
+    }
+    .centered-content {
+        text-align: center;
+        margin-top: 20px; /* Adjust as needed */
+    }
+    .goal-text {
+        margin-bottom: 20px; /* Adjust as needed */
+    }
+</style>
 
 <PageTitle>Health Insights</PageTitle>
 
-<h1>Health Insights</h1>
+<div class="centered-content">
+    <h1><u class="title">Health Insights</u></h1>
+    <u class="title goal-text">What is your weight goal?</u>
 
-What is your weight goal?
-
-<div>
-  <button @onclick='() => NavigateToGoal("gainweight")'>Gain Weight</button>
-  <button @onclick='() => NavigateToGoal("loseweight")'>Lose Weight</button>
-  <button @onclick='() => NavigateToGoal("maintainweight")'>Maintain Current Weight</button>
+    <div>
+        <NavLink class="nav-link" href="/gainweight">Gain Weight</NavLink>
+        <NavLink class="nav-link" href="/loseweight">Lose Weight</NavLink>
+        <NavLink class="nav-link" href="/maintainweight">Maintain Current Weight</NavLink>
+    </div>
 </div>
-
-@code {
-    // Method to navigate to the corresponding page based on the selected goal
-    private void NavigateToGoal(string goal) {
-        switch (goal) {
-            case "gainweight":
-                NavigationManager.NavigateTo("/GainWeight");
-                break;
-            case "loseweight":
-                NavigationManager.NavigateTo("/LoseWeight");
-                break;
-            case "maintainweight":
-                NavigationManager.NavigateTo("/MaintainWeight");
-                break;
-            default:
-                break;
-        }
-    }
-}
