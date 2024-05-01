@@ -9,9 +9,9 @@
     }
 }
 
-<div class="calendar">
+<div class="calendar" style="color: white;">
     <!-- Display the selected date -->
-    <h2>Selected Date: @selectedDate.ToShortDateString()</h2>
+    <h2 style="background-color: rgba(0, 0, 0, 0.3); padding: 10px;">Selected Date: @selectedDate.ToShortDateString()</h2>
 
     <!-- Display the calendar -->
     <table>
@@ -37,7 +37,7 @@
                                 DateTime currentDate = DateTime.Today.AddDays(j + i * 7 - (int)DateTime.Today.DayOfWeek);
                             }
                             <button @onclick="() => SelectDate(currentDate)"
-                                    style="background-color: @(currentDate.Date == selectedDate.Date ? "purple" : "inherit")">
+                                    style="background-color: @(currentDate.Date == selectedDate.Date ? "purple" : "inherit"); color: white;">
                                 @currentDate.Day
                             </button>
                         </td>
@@ -62,7 +62,7 @@
     .calendar table th,
     .calendar table td {
         width: calc(100% / 7);
-        height: 50px; /* Adjust height as needed */
+        height: 30px; /* Adjust height as needed */
         border: 1px solid #ccc;
         text-align: center;
         white-space: nowrap; /* Prevent wrapping of text */

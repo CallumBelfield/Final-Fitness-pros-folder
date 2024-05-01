@@ -1,9 +1,61 @@
 ﻿@page "/"
 
+<style>
+    /* Flexbox container */
+    .container {
+        display: flex;
+        flex-direction: column;
+        height: 65vh; /* Ensure the container fills the viewport vertically */
+    }
+
+    /* Flexbox items */
+    .box {
+        flex: 0.7; /* Each box takes up 70% of the available space */
+        display: flex; /* Use flexbox to align items */
+        flex-direction: column; /* Stack items vertically */
+        align-items: center; /* Center items horizontally */
+        justify-content: center; /* Center items vertically */
+        color: white; /* Set text color to white */
+        padding: 20px; /* Add padding to the boxes */
+        border-radius: 5px; /* Add border radius to round the corners */
+        margin-bottom: 10px; /* Add some space between boxes */
+        background-color: rgba(0, 0, 0, 0.3); /* Set background color with 30% opacity black */
+    }
+
+    /* Style for nav links */
+    .nav-link {
+        color: white; /* Set text color to white */
+        text-decoration: none; /* Remove default underline */
+        margin-top: 10px; /* Add some space above the links */
+        display: inline-block; /* Ensure the links are displayed in a line */
+        padding: 10px 20px; /* Add padding to create button-like appearance */
+        border: none; /* Remove border */
+        border-radius: 5px; /* Add border radius to round the corners */
+        transition: background-color 0.3s ease; /* Add transition effect */
+    }
+
+    /* Hover state for nav links */
+    .nav-link:hover {
+        background-color: blue; /* Change background color on hover */
+        color: white; /* Change text color on hover */
+    }
+
+    /* Style for the third box */
+    .box:nth-child(3) {
+        background-color: transparent; /* Remove opaque background */
+        border: none; /* Remove border */
+    }
+
+    /* Style for the "Go to Weight" button */
+    .box:nth-child(3) .nav-link {
+        background-color: rgba(0, 0, 0, 0.3); /* Set background color with 30% opacity black */
+    }
+</style>
+
 <div class="container">
     <!-- First box -->
     <div class="box">
-        <h2>Scroll for health insights <NavLink class="nav-link" href="/health">Go to Health</NavLink></h2> <!-- Health button included in the title -->
+        <h2>Scroll for health insights <NavLink class="nav-link" href="/health">Go to Health</NavLink></h2>
     </div>
 
     <!-- Second box -->
@@ -16,13 +68,11 @@
 
     <!-- Third box -->
     <div class="box">
-        <NavLink class="nav-link" href="/weight">Go to Weight</NavLink> <!-- Button for weight route -->
-        <img src="/index_image_1.jpeg" alt="Image 1" />
+        <NavLink class="nav-link" href="/weight">Go to Weight</NavLink>
     </div>
 
     <!-- Fourth box -->
     <div class="box">
-        <!-- Display calendar here -->
         <Calendar />
     </div>
 </div>
