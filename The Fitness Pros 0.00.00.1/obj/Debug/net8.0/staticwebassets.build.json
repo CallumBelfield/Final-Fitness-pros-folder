@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "265QgnTqgjFWXpI+QiC0Ih1VqzrUMQwPvt5z1c+wyNw=",
+  "Hash": "GnhVoon47+NRUdtSIU1dgEPQKoFk9L71dCCfRRLZyJ8=",
   "Source": "The_Fitness_Pros_0.00.00.1",
   "BasePath": "_content/The_Fitness_Pros_0.00.00.1",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\backgroundhome.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\bmi.jpeg",
+      "SourceId": "The_Fitness_Pros_0.00.00.1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\",
+      "BasePath": "_content/The_Fitness_Pros_0.00.00.1",
+      "RelativePath": "bmi.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bmi.jpeg"
     },
     {
       "Identity": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\bootstrap\\bootstrap.min.css",

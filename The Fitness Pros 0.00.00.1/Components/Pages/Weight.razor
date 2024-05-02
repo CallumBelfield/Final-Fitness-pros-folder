@@ -2,10 +2,69 @@
 
 <PageTitle>Weight Input</PageTitle>
 
-<h3>Enter Your Current Weight</h3>
+<style>
+    /* Container for the image and buttons */
+    .container {
+        display: flex;
+        flex-direction: column; /* Align items in a column */
+        align-items: center; /* Center items horizontally */
+    }
 
-<div>
-    <input type="number" @userWeight />
-    <button>Submit</button>
+    /* Style for the image */
+    .image {
+        margin-top: 20px; /* Add some space above the image */
+        margin-bottom: 20px; /* Add some space below the image */
+    }
+
+    /* Style for the navigation buttons */
+    .buttons {
+        display: flex; /* Display buttons in a row */
+        justify-content: space-between; /* Space buttons evenly */
+        width: 100%; /* Full width */
+        max-width: 600px; /* Limit width to 600px */
+        margin-top: 20px; /* Add some space above the buttons */
+    }
+
+    .box {
+        width: calc(100% / 3 - 10px); /* Set width for each button */
+    }
+
+    /* Style for the labels */
+    .label {
+        color: white; /* Set text color to white */
+        text-align: center; /* Align text to the center */
+        margin-bottom: 10px; /* Add some space below the labels */
+        width: calc(100% / 3 - 10px); /* Set width for each label */
+    }
+
+    /* Style for the container of buttons and labels */
+    .button-label-container {
+        display: flex; /* Display items in a row */
+        justify-content: space-between; /* Space items evenly */
+        width: 100%; /* Full width */
+        max-width: 600px; /* Limit width to 600px */
+    }
+</style>
+
+<div class="container">
+    <!-- Navigation buttons and labels positioned at the top -->
+    <div class="button-label-container">
+        <div class="box">
+            <NavLink class="nav-link" href="/GainWeight">Go to Gain Weight</NavLink>
+            <div class="label">BMI &lt; 18.5</div>
+        </div>
+
+        <div class="box">
+            <NavLink class="nav-link" href="/MaintainWeight">Go to Maintain Weight</NavLink>
+            <div class="label">BMI 18.5 - 24.9</div>
+        </div>
+
+        <div class="box">
+            <NavLink class="nav-link" href="/LoseWeight">Go to Lose Weight</NavLink>
+            <div class="label">BMI &gt; 24.9</div>
+        </div>
+    </div>
+
+    <!-- Image centered at the bottom -->
+    <img src="bmi.jpeg" alt="BMI Image" class="image" style="width: 400px; height: 400px;" />
 </div>
-

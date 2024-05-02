@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\backgroundhome.jpg"
     },
     {
+      "Id": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\bmi.jpeg",
+      "PackagePath": "staticwebassets\\bmi.jpeg"
+    },
+    {
       "Id": "C:\\Users\\certi\\Documents\\Final Fitness pros folder\\The Fitness Pros 0.00.00.1\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
